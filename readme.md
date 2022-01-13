@@ -4,3 +4,4 @@ Configured:
 * @babel for es6 support
 * Sass support for styling
 
+For use it just clone and delete .git folder.
